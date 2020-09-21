@@ -1,3 +1,3 @@
 First contents of junkfile, now altered by userA
-by matt userB rules the best!
+by matt userB and userA rule the best!
 userB added a line here.
