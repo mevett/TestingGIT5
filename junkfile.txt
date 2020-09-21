@@ -1,2 +1,2 @@
-First contents of junkfile, now altered
+First contents of junkfile, now altered by userA
 by matt
